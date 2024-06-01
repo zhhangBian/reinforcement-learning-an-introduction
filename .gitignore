@@ -1,6 +1,7 @@
 .idea
 *.pyc
 latex
+venv
 *.bin
 extra
 .DS_Store
