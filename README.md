@@ -1,10 +1,8 @@
+when I lean RL
+
 # Reinforcement Learning: An Introduction
 
-[![Build Status](https://travis-ci.org/ShangtongZhang/reinforcement-learning-an-introduction.svg?branch=master)](https://travis-ci.org/ShangtongZhang/reinforcement-learning-an-introduction)
-
 Python replication for Sutton & Barto's book [*Reinforcement Learning: An Introduction (2nd Edition)*](http://incompleteideas.net/book/the-book-2nd.html)
-
-> If you have any confusion about the code or want to report a bug, please open an issue instead of emailing me directly, and unfortunately I do not have exercise answers for the book.
 
 # Contents 
 
@@ -83,20 +81,3 @@ Python replication for Sutton & Barto's book [*Reinforcement Learning: An Introd
 1. [Example 13.1: Short corridor with switched actions](https://raw.githubusercontent.com/ShangtongZhang/reinforcement-learning-an-introduction/master/images/example_13_1.png)
 2. [Figure 13.1: REINFORCE on the short-corridor grid world](https://raw.githubusercontent.com/ShangtongZhang/reinforcement-learning-an-introduction/master/images/figure_13_1.png)
 3. [Figure 13.2: REINFORCE with baseline on the short-corridor grid-world](https://raw.githubusercontent.com/ShangtongZhang/reinforcement-learning-an-introduction/master/images/figure_13_2.png)
-
-
-# Environment
-* python 3.6 
-* numpy
-* matplotlib
-* [seaborn](https://seaborn.pydata.org/index.html)
-* [tqdm](https://pypi.org/project/tqdm/)
-
-# Usage
-> All files are self-contained
-```commandline
-python any_file_you_want.py
-```
-
-# Contribution
-If you want to contribute some missing examples or fix some bugs, feel free to open an issue or make a pull request. 
