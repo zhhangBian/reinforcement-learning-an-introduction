@@ -6,3 +6,4 @@ venv
 extra
 .DS_Store
 .vscode/
+__pycache__
